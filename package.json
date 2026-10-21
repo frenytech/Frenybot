@@ -9,7 +9,7 @@
     "check": "node --check index.js"
   },
   "engines": {
-    "node": ">=20.0.0"
+    "node": ">=22.x"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "^6.7.18",
